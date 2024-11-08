@@ -28,3 +28,13 @@ print(len(tuple))
 tuple = (1,2,3,"hello")
 for i in tuple:
     print(i)
+
+# wap to count the numbers of student with "A" grade in the following tupe
+grade = ("c","d","a","a","b","b","a")
+print(grade.count("a"))
+
+
+# store the above values in a list & sort them from "a" to "d"
+list = ["c","d","a","a","b","b","a"]
+list.sort()
+print (list)    
