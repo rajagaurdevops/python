@@ -151,4 +151,4 @@ acc1.credit(40000)
 
 
 
-c:\Users\VISHNU~1\AppData\Local\Temp\Copy-of-Copy-of-Copy-of-Untitled-Design--1--1.png
+https://www.boardinfinity.com/blog/content/images/2023/03/Copy-of-Copy-of-Copy-of-Untitled-Design-1-1.png
