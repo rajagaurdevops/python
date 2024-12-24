@@ -147,8 +147,4 @@ class Account:
 acc1 = Account(10000, 145510801644)
 acc1.debit(1000)
 acc1.credit(500)
-acc1.credit(40000)
-
-
-
-https://www.boardinfinity.com/blog/content/images/2023/03/Copy-of-Copy-of-Copy-of-Untitled-Design-1-1.png
+acc1.credit(4000)
